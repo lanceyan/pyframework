@@ -11,7 +11,7 @@ httpagentparser==1.8.1
 idna==2.6
 Jinja2==2.10
 jmespath==0.9.3
-lxml==4.1.1
+lxml==4.6.3
 MarkupSafe==1.0
 numpy==1.14.1
 pandas>=0.22.0
